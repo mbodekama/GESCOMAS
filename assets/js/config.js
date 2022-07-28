@@ -27,3 +27,4 @@ if (localStorage.getItem('theme') === 'dark') {
   document.documentElement.classList.add('dark');
 }
 //# sourceMappingURL=config.js.map
+// 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
