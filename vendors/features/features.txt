@@ -1,0 +1,37 @@
+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  => 28 - 02/08/2022
+
+1 - ONGLET EVENEMENT ET ACTUALITE ( Permet d'enregistrer sur la plateforme les evenements et actualite au sein de la mutuelle
+ILpeut sagit de la prochaine reunion, de la future activité, d'annonce malheurese ou heureuse). L'enregistrement de cet evenment pourra donner lieu à l'envoie de l'information dans un message professionnel.
+
+-> la liste des evenements et actualités (consulter, modifier, suprimer, communiquer aux membres)
+
+2 - PAGE ACCEUIL FAIRE APPARAITRE EVENEMENTS EN COURS ET FUTURES (consulter et communiquer)
+
+
+3 - Onglet Qualité de membre ( l'admin pourra creer les differents type de membres qu'ils on au sein de la mutuelle et leur affecté leur cotisation). 
+
+4 - A l'enregistrement d'un membre on choisit son type de membre et cela définira sa cotisation / mois et par an et mettre son montant versé pour l'inscription. 
+- l'enreigistrement valide qu'il a paye son droit d'inscription a l'association donc c'est une entré de valeur égale au droit d'adhésion
+- lors de l'enregistrement il doit indiqué le montant de cotisation versé hors droit d'adhésion constitue une entré pour la caisse
+
+
+5- LA cotisation mensuellle doit se crée automatiquement chaque nouveau mois et mettre en retard ce qui n'ont pas payé et mettre à jour ceux qui on payé
+
+6 - Dans settings ajouter le montant du droit d'adhésion  l'organisation
+
+7 - Tous les membres > Fiare un filtre par qualité de membre > la liste sortie doit permettre de consulté toutes les cotisations d'1 membre
+
+8 - A partir de l'onglet qualité membre on a un aperçu sur le total des membres dans chaque type et on peux consulter les membres de ce type (la consultation renvoie a la vue des membres classés par type )
+
+9- Creer une cotisation > Affecter les types de membres concerné par cette cotisation a la création
+
+10 - L'onget Profil > Mon compte | Parametres App | Deconnexion
+
+11- Menu Archive pour constituer les archives de l'association (PV de reunion, facture d'achat, bon de reduction, chèque, reçu , inmemorial) CRUD
+
+12 - Générer des statisitiques 
+
+
+
+
+
